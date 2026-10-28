@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/forgejo-hostmatcher-0001-ssrf">forgejo-hostmatcher-0001-ssrf</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/forgejo-hostmatcher-0001-ssrf"><strong>https://abraxaslabs.tech/research/forgejo-hostmatcher-0001-ssrf</strong></a>
+</p>
+
 
 # forgejo-hostmatcher-0001-ssrf
 
